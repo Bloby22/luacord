@@ -1,4 +1,4 @@
-<p align="center">
+2<p align="center">
   <b style="font-size: 2.5em; color:#7289DA;">🟣 Luacord</b>
 </p>
 
@@ -54,3 +54,23 @@ client:on("ready", function()
 end)
 
 client:run()
+```
+
+---
+
+## 👑 Owner / Profile
+
+<p align="center">
+  <b style="font-size: 1.5em;">Bloby22</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/bloby22.png" alt="Profile Logo" width="80" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Discord Icon" width="20" /> Discord ID: <b>12849595943</b><br>
+  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email Icon" width="20" /> Email: <b>michal@bloby.eu</b><br>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub Icon" width="20" /> GitHub: <b>[Bloby22](https://github.com/bloby22)</b><br>
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website Icon" width="20" /> Website: <b>[Bloby.eu](https://bloby.eu)</b>
+</p>
