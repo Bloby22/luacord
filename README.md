@@ -1,23 +1,30 @@
-# ![Luacord Logo](https://img.icons8.com/color/48/discord-new.png) Luacord
+<p align="center">
+  <b style="font-size: 2.5em; color:#7289DA;">🟣 Luacord</b>
+</p>
 
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-![Lua](https://img.shields.io/badge/language-lua-blue?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/language-lua-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/discord-bot_ready-purple?style=flat-square" />
+</p>
 
-## 🚀 About
+---
 
-**Luacord** is a modern **Discord API** written in **Lua**, designed for **clean code**, **modern design**, and **ease of use**.  
-It allows you to control and integrate Discord bots effortlessly using Lua scripts.
+## 💡 About
+
+**Luacord** is a **modern Discord API** written in **Lua**, focused on **clean code**, **ease of use**, and **performance**.  
+Build and manage Discord bots effortlessly using Lua scripts.
 
 ---
 
 ## ✨ Features
 
-- Clean and modern API
-- Full support for Discord events
-- Easy setup and extensibility
-- Optimized for speed and stability
-- Cross-platform compatibility
+- ✅ Clean and modern API  
+- ✅ Full support for Discord events  
+- ✅ Easy setup and extensibility  
+- ✅ Optimized for speed and stability  
+- ✅ Cross-platform compatibility  
 
 ---
 
@@ -25,17 +32,17 @@ It allows you to control and integrate Discord bots effortlessly using Lua scrip
 
 | Icon | Description |
 |------|-------------|
-| ![Bot](https://img.icons8.com/ios-filled/50/000000/bot.png) | Bot instance |
-| ![Server](https://img.icons8.com/ios-filled/50/000000/server.png) | Discord server management |
-| ![Message](https://img.icons8.com/ios-filled/50/000000/chat.png) | Message handling |
-| ![User](https://img.icons8.com/ios-filled/50/000000/user.png) | User management |
+| 🤖 | Bot instance |
+| 🏰 | Server management |
+| 💬 | Message handling |
+| 👤 | User management |
+| ⚡ | Event handling |
 
 ---
 
 ## 🛠️ Installation
 
 ```lua
--- Example installation of Luacord
 local Luacord = require("luacord")
 
 local client = Luacord.Client({
@@ -43,7 +50,7 @@ local client = Luacord.Client({
 })
 
 client:on("ready", function()
-    print("Luacord is ready!")
+    print("✅ Luacord is ready!")
 end)
 
 client:run()
