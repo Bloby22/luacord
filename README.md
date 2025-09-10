@@ -1,4 +1,4 @@
-2<p align="center">
+<p align="center">
   <b style="font-size: 2.5em; color:#7289DA;">🟣 Luacord</b>
 </p>
 
@@ -68,13 +68,13 @@ client:run()
 
 <p style="line-height:2; text-align:left; margin-top:10px;">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968788.png" alt="Discord Icon" width="20" style="vertical-align:middle;" /> Discord ID: <b>12849595943</b><br>
+<img src="https://img.shields.io/badge/Discord-12849595943-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge" /> <br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email Icon" width="20" style="vertical-align:middle;" /> Email: <b>michal@bloby.eu</b><br>
+<img src="https://img.shields.io/badge/Email-michal@bloby.eu-orange?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" /> <br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub Icon" width="20" style="vertical-align:middle;" /> GitHub: <b>[Bloby22](https://github.com/bloby22)</b><br>
+<img src="https://img.shields.io/badge/GitHub-Bloby22-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" /> <br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website Icon" width="20" style="vertical-align:middle;" /> Website: <b>[Bloby.eu](https://bloby.eu)</b>
+<img src="https://img.shields.io/badge/Website-Bloby.eu-blue?style=flat-square&logo=internet&logoColor=white" alt="Website Badge" />
 
 </p>
 
