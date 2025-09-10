@@ -58,19 +58,24 @@ client:run()
 
 ---
 
-## 👑 Owner / Profile
+## 👑 Owner / Profile Card
 
-<p align="center">
-  <b style="font-size: 1.5em;">Bloby22</b>
+<div align="center" style="border: 1px solid #7289DA; border-radius: 15px; padding: 20px; display: inline-block; max-width: 400px; background-color: #f9f9f9;">
+
+<img src="https://github.com/bloby22.png" alt="Profile Logo" width="100" style="border-radius:50%;" />
+
+<h3>Bloby22</h3>
+
+<p style="line-height:2; text-align:left; margin-top:10px;">
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968788.png" alt="Discord Icon" width="20" style="vertical-align:middle;" /> Discord ID: <b>12849595943</b><br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email Icon" width="20" style="vertical-align:middle;" /> Email: <b>michal@bloby.eu</b><br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub Icon" width="20" style="vertical-align:middle;" /> GitHub: <b>[Bloby22](https://github.com/bloby22)</b><br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website Icon" width="20" style="vertical-align:middle;" /> Website: <b>[Bloby.eu](https://bloby.eu)</b>
+
 </p>
 
-<p align="center">
-  <img src="https://github.com/bloby22.png" alt="Profile Logo" width="80" style="border-radius:50%;" />
-</p>
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Discord Icon" width="20" /> Discord ID: <b>12849595943</b><br>
-  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email Icon" width="20" /> Email: <b>michal@bloby.eu</b><br>
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub Icon" width="20" /> GitHub: <b>[Bloby22](https://github.com/bloby22)</b><br>
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website Icon" width="20" /> Website: <b>[Bloby.eu](https://bloby.eu)</b>
-</p>
+</div>
